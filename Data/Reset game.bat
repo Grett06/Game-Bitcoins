@@ -1,0 +1,17 @@
+echo off
+del nom.txt
+del prenom.txt
+del chryptocodepr.txt
+del chryptocodepu.txt
+del bitcoin.txt
+del bitshares.txt
+del dash.txt
+del lisk.txt
+del litecoin.txt
+del stat.txt
+del cpu.txt
+del courant.txt
+del epargne.txt
+del genere.bat
+del #nul#.val
+del fin.val
